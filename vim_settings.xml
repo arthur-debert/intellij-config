@@ -10,14 +10,20 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/framer/arthur-test-project.framer/framer/style.css" timestamp="1468709427594" />
+      <file name="$USER_HOME$/Documents/framer/arthur-test-project.framer/modules/elke.coffee" timestamp="1468711857011">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="19" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICBwcmludCAibXlGdW5jdGlvbiBpcyBydW5zbmluZyIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludCAibXlGdW5jdGlvbiBpcyBydW5zbmluZyIK</text>
+      <register name="&quot;" type="4">
+        <text>CCCCCC</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZXhwb3J0cy5teUZ1bmN0aW9uID0gLT4K</text>
@@ -29,7 +35,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;myVariableu&quot;</text>
+        <text>CCCCCC</text>
       </register>
     </registers>
     <search>
