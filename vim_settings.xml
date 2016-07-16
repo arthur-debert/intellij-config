@@ -3,22 +3,45 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/framer/arthur-test-project.framer/modules/myModule.coffee" timestamp="1468708553939">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="9" column="11" />
+      <file name="$USER_HOME$/Documents/framer/arthur-test-project.framer/modules/myModule.coffee" timestamp="1468709841702">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/framer/arthur-test-project.framer/framer/style.css" timestamp="1468709427594" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcmludCAibXlGdW5jdGlvbiBpcyBydW5zbmluZyIK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmludCAibXlGdW5jdGlvbiBpcyBydW5zbmluZyIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0cy5teUZ1bmN0aW9uID0gLT4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;myVariableu&quot;</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>x</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
