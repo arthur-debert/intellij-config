@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/opt/loggi/ops/platform/transifex-client/tx.conf" timestamp="1470680348899">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/framer/mobile-nav-menu.framer/modules/elke.coffee" timestamp="1468735136830">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="10" />
@@ -32,43 +38,45 @@
     </filemarks>
     <jumps>
       <jump line="32" column="0" filename="/opt/loggi/ops/platform/logginet-requirements/Dockerfile" />
+      <jump line="7" column="12" filename="/opt/loggi/ops/platform/transifex-client/tx.conf" />
+      <jump line="0" column="0" filename="/opt/loggi/ops/platform/transifex-client/tx.conf" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJnZW9zLWRldiBcCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">W21haW5dCmhvc3QgPSBodHRwczovL3d3dy50cmFuc2lmZXguY29tCgpbcHJvamVjdF9zbHVnLnJlc291cmNlX3NsdWddCnNvdXJjZV9maWxlID0gcG8vbXlwcm9qLnBvdApzb3VyY2VfbGFuZyA9IGVuCnR5cGUgPSBQTwpmaWxlX2ZpbHRlciA9IHBvLzxsYW5nPjxsYW5nPi5wbwp0cmFucy5maSA9IHRyYW5zbGF0aW9ucy9maS9MQ19NRVNTQUdFUy9kamFuZ28ucA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJnZW9zLWRldiBcCg==</text>
+      <register name="&quot;" type="4">
+        <text>p@ssw0rd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJnZW9zLWMxIFwK</text>
+        <text encoding="base64">ICAgICAgICBsaWJnZW9zLWRldiBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIEFQUF9GSUxFIGFwcC5weQo=</text>
+        <text encoding="base64">ICAgICAgICBsaWJnZW9zLWMxIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIEFQUF9ESVIgL29wdC9sb2dnaS9zZXJ2aWNlCg==</text>
+        <text encoding="base64">RU5WIEFQUF9GSUxFIGFwcC5weQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">RU5WIEFQUF9ESVIgL29wdC9sb2dnaS9zZXJ2aWNlCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">RU5WIFVXU0dJX01BU1RFUiAxCkVOViBVV1NHSV9XT1JLRVJTIDYKRU5WIFVXU0dJX1RIUkVBRFMgMgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IyBDb3B5IHNyYyBhbmQgdXBkYXRlIGRlcHMKT05CVUlMRCBDT1BZIC4vc3JjL3BpcC1yZXF1aXJlbWVudHMudHh0IC90bXAvcGlwLXJlcXVpcmVtZW50cy50eHQKT05CVUlMRCBSVU4gcGlwIGluc3RhbGwgLXIgL3RtcC9waXAtcmVxdWlyZW1lbnRzLnR4dApPTkJVSUxEIENPUFkgLi9zcmMgL29wdC9sb2dnaS9zZXJ2aWNlCk9OQlVJTEQgV09SS0RJUiAvb3B0L2xvZ2dpL3NlcnZpY2UK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Q09QWSB1d3NnaS5jb25mIC9ldGMvdXdzZ2kuY29uZgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0cy5jb2xvcnMgPQogIG1lbnVBY3RpdmU6ICIjMDBCQUZGIgogIG1lbnVJbmFjdGl2ZSA6ICIjODRBQkM5Igo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludCAibXlGdW5jdGlvbiBpcyBydW5zbmluZyIK</text>
+        <text encoding="base64">ZXhwb3J0cy5jb2xvcnMgPQogIG1lbnVBY3RpdmU6ICIjMDBCQUZGIgogIG1lbnVJbmFjdGl2ZSA6ICIjODRBQkM5Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>p@ssw0rd</text>
       </register>
     </registers>
     <search>
