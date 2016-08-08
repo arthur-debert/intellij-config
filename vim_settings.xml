@@ -29,54 +29,69 @@
       <file name="/opt/loggi/ops/platform/logginet-requirements/Dockerfile" timestamp="1470679364032">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="/opt/loggi/ops/platform/transifex-client/Dockerfile" timestamp="1470679604693">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="40" column="22" />
-        <mark key="." line="24" column="0" />
+      <file name="/opt/loggi/ops/platform/transifex-client/transifex-conf" timestamp="1470683397010">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/opt/loggi/ops/platform/transifex-client/Dockerfile" timestamp="1470682286142">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="/opt/loggi/ops/platform/transifex-client/.transifexrc" timestamp="1470683382511">
+        <mark key="j" line="3" column="0" />
+        <mark key="[" line="1" column="17" />
+        <mark key="m" line="3" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="3" column="22" />
       </file>
     </filemarks>
     <jumps>
       <jump line="32" column="0" filename="/opt/loggi/ops/platform/logginet-requirements/Dockerfile" />
       <jump line="7" column="12" filename="/opt/loggi/ops/platform/transifex-client/tx.conf" />
       <jump line="0" column="0" filename="/opt/loggi/ops/platform/transifex-client/tx.conf" />
+      <jump line="9" column="47" filename="/opt/loggi/ops/platform/transifex-client/transifex-conf" />
+      <jump line="3" column="0" filename="/opt/loggi/ops/platform/transifex-client/transifex-conf" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">W21haW5dCmhvc3QgPSBodHRwczovL3d3dy50cmFuc2lmZXguY29tCgpbcHJvamVjdF9zbHVnLnJlc291cmNlX3NsdWddCnNvdXJjZV9maWxlID0gcG8vbXlwcm9qLnBvdApzb3VyY2VfbGFuZyA9IGVuCnR5cGUgPSBQTwpmaWxlX2ZpbHRlciA9IHBvLzxsYW5nPjxsYW5nPi5wbwp0cmFucy5maSA9IHRyYW5zbGF0aW9ucy9maS9MQ19NRVNTQUdFUy9kamFuZ28ucA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dHlwZSA9IFBPCmZpbGVfZmlsdGVyID0gcG8vPGxhbmc+PGxhbmc+LnBvCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>p@ssw0rd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHlwZSA9IFBPCmZpbGVfZmlsdGVyID0gcG8vPGxhbmc+PGxhbmc+LnBvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJnZW9zLWRldiBcCg==</text>
+        <text encoding="base64">I3NvdXJjZV9maWxlID0gcG8vbXlwcm9qLnBvdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJnZW9zLWMxIFwK</text>
+        <text encoding="base64">dHJhbnMuZmkgPSB0cmFuc2xhdGlvbnMvZmkvTENfTUVTU0FHRVMvZGphbmdvLnBvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIEFQUF9GSUxFIGFwcC5weQo=</text>
+        <text encoding="base64">c291cmNlX2xhbmcgPSBlbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU5WIEFQUF9ESVIgL29wdC9sb2dnaS9zZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5WIFVXU0dJX01BU1RFUiAxCkVOViBVV1NHSV9XT1JLRVJTIDYKRU5WIFVXU0dJX1RIUkVBRFMgMgo=</text>
+        <text encoding="base64">Q01EICJ0eCBwdWxsIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBDb3B5IHNyYyBhbmQgdXBkYXRlIGRlcHMKT05CVUlMRCBDT1BZIC4vc3JjL3BpcC1yZXF1aXJlbWVudHMudHh0IC90bXAvcGlwLXJlcXVpcmVtZW50cy50eHQKT05CVUlMRCBSVU4gcGlwIGluc3RhbGwgLXIgL3RtcC9waXAtcmVxdWlyZW1lbnRzLnR4dApPTkJVSUxEIENPUFkgLi9zcmMgL29wdC9sb2dnaS9zZXJ2aWNlCk9OQlVJTEQgV09SS0RJUiAvb3B0L2xvZ2dpL3NlcnZpY2UK</text>
+      <register name="7" type="2">
+        <text encoding="base64">c291cmNlX2ZpbGUgPSBwby9teXByb2oucG90Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q09QWSB1d3NnaS5jb25mIC9ldGMvdXdzZ2kuY29uZgo=</text>
+        <text encoding="base64">I2ZpbGVfZmlsdGVyID0gcG8vPGxhbmc+PGxhbmc+LnBvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0cy5jb2xvcnMgPQogIG1lbnVBY3RpdmU6ICIjMDBCQUZGIgogIG1lbnVJbmFjdGl2ZSA6ICIjODRBQkM5Igo=</text>
+        <text encoding="base64">UlVOIHR4IGluaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>p@ssw0rd</text>
+        <text>+transifex</text>
       </register>
     </registers>
     <search>
