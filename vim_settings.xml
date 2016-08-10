@@ -14,12 +14,12 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" timestamp="1470797623927">
-        <mark key="'" line="898" column="0" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="15" column="21" />
+      <file name="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" timestamp="1470797931676">
+        <mark key="'" line="195" column="8" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/framer/arthur-test-project.framer/modules/myModule.coffee" timestamp="1468709841702">
         <mark key="[" line="7" column="0" />
@@ -35,6 +35,11 @@
       </file>
       <file name="/opt/loggi/ops/platform/logginet-requirements/Dockerfile" timestamp="1470679364032">
         <mark key="'" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/i18n/core-app.po" timestamp="1470797995571">
+        <mark key="[" line="834" column="0" />
+        <mark key="]" line="834" column="0" />
+        <mark key="." line="834" column="0" />
       </file>
       <file name="/opt/loggi/ops/platform/transifex-client/transifex-conf" timestamp="1470683397010">
         <mark key="'" line="2" column="0" />
@@ -65,51 +70,72 @@
       <jump line="15" column="2" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
       <jump line="898" column="0" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="166" column="7" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="167" column="8" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="194" column="7" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="195" column="8" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/i18n/core-app.po" />
+      <jump line="873" column="0" filename="$USER_HOME$/Documents/i18n/core-app.po" />
+      <jump line="858" column="0" filename="$USER_HOME$/Documents/i18n/core-app.po" />
+      <jump line="866" column="0" filename="$USER_HOME$/Documents/i18n/core-app.po" />
+      <jump line="846" column="0" filename="$USER_HOME$/Documents/i18n/core-app.po" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">dHlwZSA9IFBPCmZpbGVfZmlsdGVyID0gcG8vPGxhbmc+PGxhbmc+LnBvCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>Sua Empresa</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">I3NvdXJjZV9maWxlID0gcG8vbXlwcm9qLnBvdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dHJhbnMuZmkgPSB0cmFuc2xhdGlvbnMvZmkvTENfTUVTU0FHRVMvZGphbmdvLnBvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c291cmNlX2xhbmcgPSBlbgo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Q01EICJ0eCBwdWxsIgo=</text>
+      <register name="-" type="4">
+        <text>Extratos</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c291cmNlX2ZpbGUgPSBwby9teXByb2oucG90Cg==</text>
+      <register name="/" type="4">
+        <text>Boletos</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bXNnaWQgIk8gbWFwYSBtw6FnaWNvIHBhcmE8YnI+byBzZXUgbmVnw7NjaW8iCm1zZ3N0ciAiTyBtYXBhIG3DoWdpY28gcGFyYTxicj5vIHNldSBuZWfDs2NpbyIKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bXNnaWQgIkUtY29tbWVyY2UgTWFuYWdlciIKbXNnc3RyICJFLWNvbW1lcmNlIE1hbmFnZXIiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bXNnaWQgIkFjZXNzZSBhIHBsYXRhZm9ybWE8YnI+IGUgZmHDp2Egc2V1IHBlZGlkbyBlbSBzZWd1bmRvcy48YnI+Igptc2dzdHIgIkFjZXNzZSBhIHBsYXRhZm9ybWE8YnI+IGUgZmHDp2Egc2V1IHBlZGlkbyBlbSBzZWd1bmRvcy48YnI+Igo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">bXNnaWQgIiIKIkNvbnNpZGVyYW1vcyBhIHF1YWxpZGFkZSBuYSBlbnRyZWdhIGNvbW8gdW1hIGV4dGVuc8OjbyBkZSBub3Nzb3MgcHJvZHV0b3MsIGUgIgoiYSBMb2dnaSBwcm9wb3JjaW9uYSBpc3NvIGRlIGZvcm1hIMOhZ2lsIGUgaW5vdmFkb3JhLCBwZXJtaXRpbmRvIHVtICIKImF0ZW5kaW1lbnRvIGV4Y2VsZW50ZSDDoHMgbm9zc2FzIGNsaWVudGVzLiIKbXNnc3RyICIiCiJDb25zaWRlcmFtb3MgYSBxdWFsaWRhZGUgbmEgZW50cmVnYSBjb21vIHVtYSBleHRlbnPDo28gZGUgbm9zc29zIHByb2R1dG9zLCBlICIKImEgTG9nZ2kgcHJvcG9yY2lvbmEgaXNzbyBkZSBmb3JtYSDDoWdpbCBlIGlub3ZhZG9yYSwgcGVybWl0aW5kbyB1bSAiCiJhdGVuZGltZW50byBleGNlbGVudGUgw6BzIG5vc3NhcyBjbGllbnRlcy4iCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bXNnaWQgIlJlc3RhdXJhbnRlcyIKbXNnc3RyICJSZXN0YXVyYW50ZXMiCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cm1zZ2lkICIiCiJBcMOzcyBhIG11ZGFuw6dhIGRhIG1vZGFsaWRhZGUgZGUgbW90b2ZyZXRlIGZpeG8gcGFyYSB2YXJpw6F2ZWwgbmEgQXRsYXMsIGNvbSBhIgoiIExvZ2dpLCBvYnRpdmVtb3MgZXhjZWxlbnRlcyBnYW5ob3MgZSBtZWxob3JhbW9zIGEgcXVhbGlkYWRlIGRhcyBlbnRyZWdhcyAiCiJjb20gbWVub3IgY3VzdG8uIgptc2dzdHIgIiIKIkFww7NzIGEgbXVkYW7Dp2EgZGEgbW9kYWxpZGFkZSBkZSBtb3RvZnJldGUgZml4byBwYXJhIHZhcmnDoXZlbCBuYSBBdGxhcywgY29tIGEiCiIgTG9nZ2ksIG9idGl2ZW1vcyBleGNlbGVudGVzIGdhbmhvcyBlIG1lbGhvcmFtb3MgYSBxdWFsaWRhZGUgZGFzIGVudHJlZ2FzICIKImNvbSBtZW5vciBjdXN0by4iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2ZpbGVfZmlsdGVyID0gcG8vPGxhbmc+PGxhbmc+LnBvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">UlVOIHR4IGluaXQK</text>
+      <register name="9" type="4">
+        <text encoding="base64">bXNnaWQgIiIKIlZvY8OqIHJlY2ViZXLDoSBtZW5zYWxtZW50ZSBzdWEgZmF0dXJhIGUgbm90YSBmaXNjYWwgPGJyPiBwb3IgZW1haWwgZSBwb2RlcsOhICIKInBhZ2FyIGNvbSBib2xldG8gYmFuY8OhcmlvLiIKbXNnc3RyICIiCiJWb2PDqiByZWNlYmVyw6EgbWVuc2FsbWVudGUgc3VhIGZhdHVyYSBlIG5vdGEgZmlzY2FsIDxicj4gcG9yIGVtYWlsIGUgcG9kZXLDoSAiCiJwYWdhciBjb20gYm9sZXRvIGJhbmPDoXJpby4iCgptc2dpZCAiRW1wcmVzYXMiCm1zZ3N0ciAiRW1wcmVzYXMiCgptc2dpZCAiRmVsaXBlIENhdGhvdWQiCm1zZ3N0ciAiRmVsaXBlIENhdGhvdWQiCgptc2dpZCAiIgoiU2V1IGNvbnN1bWlkb3Igw6kgaW5mb3JtYWRvIHBvciBTTVMgZG8gaG9yw6FyaW8gZXhhdG8gZGEgZW50cmVnYTxicj4gZSAiCiJhY29tcGFuaGEgZW0gdGVtcG8gcmVhbDogdW1hIGV4cGVyacOqbmNpYTxicj4gw7puaWNhIGUgc3VycHJlZW5kZW50ZS4iCm1zZ3N0ciAiIgoiU2V1IGNvbnN1bWlkb3Igw6kgaW5mb3JtYWRvIHBvciBTTVMgZG8gaG9yw6FyaW8gZXhhdG8gZGEgZW50cmVnYTxicj4gZSAiCiJhY29tcGFuaGEgZW0gdGVtcG8gcmVhbDogdW1hIGV4cGVyacOqbmNpYTxicj4gw7puaWNhIGUgc3VycHJlZW5kZW50ZS4iCgptc2djdHh0ICJibGFua1wiPlRlcm1vcyBlIENvbmRpw6fDtWVzPC9hPiBkZSB1c28gZGEgTG9nZ2kiCm1zZ2lkICJMaSBlIGFjZWl0byBvcyA8YSBocmVmPVwie3swfX1cIiB0YXJnZXQ9XCIiCm1zZ3N0ciAiIgoiTGkgZSBhY2VpdG8gb3MgPGEgaHJlZj1cInt7MH19XCIgdGFyZ2V0PVwiX2JsYW5rXCI+VGVybW9zIGUgQ29uZGnDp8O1ZXM8L2E+IGRlIgoiIHVzbyBkYSBMb2dnaSI=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>Sua Empresa</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Boletos</last-search>
+      <last-offset />
+      <last-pattern>Boletos</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>Extra</entry>
+        <entry>Boletos</entry>
+      </history-search>
       <history-cmd>
         <entry>x</entry>
         <entry>w</entry>
