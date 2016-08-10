@@ -14,11 +14,12 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" timestamp="1470794498378">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="12" column="13" />
+      <file name="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" timestamp="1470797623927">
+        <mark key="'" line="898" column="0" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/framer/arthur-test-project.framer/modules/myModule.coffee" timestamp="1468709841702">
         <mark key="[" line="7" column="0" />
@@ -61,13 +62,16 @@
       <jump line="0" column="0" filename="/opt/loggi/ops/platform/transifex-client/tx.conf" />
       <jump line="9" column="47" filename="/opt/loggi/ops/platform/transifex-client/transifex-conf" />
       <jump line="3" column="0" filename="/opt/loggi/ops/platform/transifex-client/transifex-conf" />
+      <jump line="15" column="2" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
+      <jump line="898" column="0" filename="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">dHlwZSA9IFBPCmZpbGVfZmlsdGVyID0gcG8vPGxhbmc+PGxhbmc+LnBvCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>por Ponto de Entrega</text>
+        <text>Sua Empresa</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">I3NvdXJjZV9maWxlID0gcG8vbXlwcm9qLnBvdAo=</text>
@@ -97,7 +101,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>por Ponto de Entrega</text>
+        <text>Sua Empresa</text>
       </register>
     </registers>
     <search>
