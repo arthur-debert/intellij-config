@@ -39,12 +39,12 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="/opt/loggi/tracker-web-ui/translations/source/zu.po" timestamp="1471064762016">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="11" />
+      <file name="/opt/loggi/tracker-web-ui/translations/source/zu.po" timestamp="1471108135167">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="31" column="44" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="31" column="44" />
       </file>
       <file name="/opt/loggi/ops/platform/transifex-client/tx.conf" timestamp="1470680348899">
         <mark key="[" line="3" column="11" />
