@@ -8,6 +8,12 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="/opt/loggi/ui/docs/src/sections/components/select/index.md" timestamp="1471379762469">
+        <mark key="[" line="140" column="217" />
+        <mark key="]" line="140" column="175" />
+        <mark key="." line="140" column="175" />
+        <mark key="^" line="140" column="175" />
+      </file>
       <file name="$USER_HOME$/Documents/i18n/for_use_main-platform_outer-pages_pt_BR.po" timestamp="1470797931676">
         <mark key="'" line="195" column="8" />
         <mark key="[" line="31" column="17" />
@@ -102,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Péssima</text>
+        <text>ieght</text>
       </register>
       <register name="-" type="4">
-        <text>Péssima</text>
+        <text>ieght</text>
       </register>
       <register name="/" type="4">
         <text>Boletos</text>
